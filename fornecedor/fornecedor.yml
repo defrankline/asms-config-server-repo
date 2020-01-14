@@ -1,9 +1,9 @@
 spring:
   datasource:
     name: db-dev
-    url: jdbc:postgresql://localhost:5432/fornecedor
-    username: postgres
-    password: postgres
+    url: jdbc:postgres://ogqzcqwhasycpy:e1d9ccd43d3341bf835ae689f8d551a09bc14921a48edd637df436a8d60b3396@ec2-174-129-226-234.compute-1.amazonaws.com:5432/de4j5a0pfid8p5
+    username: ogqzcqwhasycpy
+    password: e1d9ccd43d3341bf835ae689f8d551a09bc14921a48edd637df436a8d60b3396
     driver-class-name: org.postgresql.Driver
     platform: 
     hikari:
